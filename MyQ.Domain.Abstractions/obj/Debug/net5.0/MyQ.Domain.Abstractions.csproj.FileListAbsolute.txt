@@ -1,0 +1,17 @@
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Abstractions\bin\Debug\net5.0\MyQ.Domain.Abstractions.deps.json
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Abstractions\bin\Debug\net5.0\MyQ.Domain.Abstractions.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Abstractions\bin\Debug\net5.0\ref\MyQ.Domain.Abstractions.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Abstractions\bin\Debug\net5.0\MyQ.Domain.Abstractions.pdb
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Abstractions\bin\Debug\net5.0\MyQ.Domain.Models.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Abstractions\bin\Debug\net5.0\MyQ.Enums.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Abstractions\bin\Debug\net5.0\MyQ.Domain.Models.pdb
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Abstractions\bin\Debug\net5.0\MyQ.Enums.pdb
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Abstractions\obj\Debug\net5.0\MyQ.Domain.Abstractions.csprojAssemblyReference.cache
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Abstractions\obj\Debug\net5.0\MyQ.Domain.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Abstractions\obj\Debug\net5.0\MyQ.Domain.Abstractions.AssemblyInfoInputs.cache
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Abstractions\obj\Debug\net5.0\MyQ.Domain.Abstractions.AssemblyInfo.cs
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Abstractions\obj\Debug\net5.0\MyQ.Domain.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Abstractions\obj\Debug\net5.0\MyQ.Domain.Abstractions.csproj.CopyComplete
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Abstractions\obj\Debug\net5.0\MyQ.Domain.Abstractions.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Abstractions\obj\Debug\net5.0\ref\MyQ.Domain.Abstractions.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Abstractions\obj\Debug\net5.0\MyQ.Domain.Abstractions.pdb

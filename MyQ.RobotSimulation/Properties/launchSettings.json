@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyQ.RobotSimulation": {
+      "commandName": "Project",
+      "commandLineArgs": "test1.json myresult1.json"
+    }
+  }
+}

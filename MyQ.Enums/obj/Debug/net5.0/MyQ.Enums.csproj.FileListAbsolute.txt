@@ -1,0 +1,11 @@
+C:\Users\strak\source\repos\MyQ\MyQ.Enums\bin\Debug\net5.0\MyQ.Enums.deps.json
+C:\Users\strak\source\repos\MyQ\MyQ.Enums\bin\Debug\net5.0\MyQ.Enums.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Enums\bin\Debug\net5.0\ref\MyQ.Enums.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Enums\bin\Debug\net5.0\MyQ.Enums.pdb
+C:\Users\strak\source\repos\MyQ\MyQ.Enums\obj\Debug\net5.0\MyQ.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strak\source\repos\MyQ\MyQ.Enums\obj\Debug\net5.0\MyQ.Enums.AssemblyInfoInputs.cache
+C:\Users\strak\source\repos\MyQ\MyQ.Enums\obj\Debug\net5.0\MyQ.Enums.AssemblyInfo.cs
+C:\Users\strak\source\repos\MyQ\MyQ.Enums\obj\Debug\net5.0\MyQ.Enums.csproj.CoreCompileInputs.cache
+C:\Users\strak\source\repos\MyQ\MyQ.Enums\obj\Debug\net5.0\MyQ.Enums.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Enums\obj\Debug\net5.0\ref\MyQ.Enums.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Enums\obj\Debug\net5.0\MyQ.Enums.pdb

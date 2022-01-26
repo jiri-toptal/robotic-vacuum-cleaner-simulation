@@ -1,0 +1,17 @@
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\bin\Debug\net5.0\MyQ.Shared.Services.IoC.deps.json
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\bin\Debug\net5.0\MyQ.Shared.Services.IoC.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\bin\Debug\net5.0\ref\MyQ.Shared.Services.IoC.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\bin\Debug\net5.0\MyQ.Shared.Services.IoC.pdb
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\bin\Debug\net5.0\MyQ.Shared.Services.Abstractions.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\bin\Debug\net5.0\MyQ.Shared.Services.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\bin\Debug\net5.0\MyQ.Shared.Services.pdb
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\bin\Debug\net5.0\MyQ.Shared.Services.Abstractions.pdb
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\obj\Debug\net5.0\MyQ.Shared.Services.IoC.csprojAssemblyReference.cache
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\obj\Debug\net5.0\MyQ.Shared.Services.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\obj\Debug\net5.0\MyQ.Shared.Services.IoC.AssemblyInfoInputs.cache
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\obj\Debug\net5.0\MyQ.Shared.Services.IoC.AssemblyInfo.cs
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\obj\Debug\net5.0\MyQ.Shared.Services.IoC.csproj.CoreCompileInputs.cache
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\obj\Debug\net5.0\MyQ.Shared.Services.IoC.csproj.CopyComplete
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\obj\Debug\net5.0\MyQ.Shared.Services.IoC.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\obj\Debug\net5.0\ref\MyQ.Shared.Services.IoC.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\obj\Debug\net5.0\MyQ.Shared.Services.IoC.pdb

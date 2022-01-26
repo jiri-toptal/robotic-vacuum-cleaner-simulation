@@ -1,0 +1,17 @@
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\bin\Debug\net5.0\MyQ.Business.IoC.deps.json
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\bin\Debug\net5.0\MyQ.Business.IoC.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\bin\Debug\net5.0\ref\MyQ.Business.IoC.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\bin\Debug\net5.0\MyQ.Business.IoC.pdb
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\bin\Debug\net5.0\MyQ.Business.Abstractions.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\bin\Debug\net5.0\MyQ.Business.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\bin\Debug\net5.0\MyQ.Business.pdb
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\bin\Debug\net5.0\MyQ.Business.Abstractions.pdb
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\obj\Debug\net5.0\MyQ.Business.IoC.csprojAssemblyReference.cache
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\obj\Debug\net5.0\MyQ.Business.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\obj\Debug\net5.0\MyQ.Business.IoC.AssemblyInfoInputs.cache
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\obj\Debug\net5.0\MyQ.Business.IoC.AssemblyInfo.cs
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\obj\Debug\net5.0\MyQ.Business.IoC.csproj.CoreCompileInputs.cache
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\obj\Debug\net5.0\MyQ.Business.IoC.csproj.CopyComplete
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\obj\Debug\net5.0\MyQ.Business.IoC.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\obj\Debug\net5.0\ref\MyQ.Business.IoC.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Business.IoC\obj\Debug\net5.0\MyQ.Business.IoC.pdb

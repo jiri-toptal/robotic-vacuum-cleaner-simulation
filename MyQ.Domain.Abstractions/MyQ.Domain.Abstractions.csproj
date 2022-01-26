@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyQ.Domain.Models\MyQ.Domain.Models.csproj" />
+    <ProjectReference Include="..\MyQ.Enums\MyQ.Enums.csproj" />
+  </ItemGroup>
+
+</Project>

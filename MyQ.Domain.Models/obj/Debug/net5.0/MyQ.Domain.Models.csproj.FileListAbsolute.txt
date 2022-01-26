@@ -1,0 +1,15 @@
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Models\bin\Debug\net5.0\MyQ.Domain.Models.deps.json
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Models\bin\Debug\net5.0\MyQ.Domain.Models.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Models\bin\Debug\net5.0\ref\MyQ.Domain.Models.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Models\bin\Debug\net5.0\MyQ.Domain.Models.pdb
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Models\bin\Debug\net5.0\MyQ.Enums.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Models\bin\Debug\net5.0\MyQ.Enums.pdb
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Models\obj\Debug\net5.0\MyQ.Domain.Models.csprojAssemblyReference.cache
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Models\obj\Debug\net5.0\MyQ.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Models\obj\Debug\net5.0\MyQ.Domain.Models.AssemblyInfoInputs.cache
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Models\obj\Debug\net5.0\MyQ.Domain.Models.AssemblyInfo.cs
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Models\obj\Debug\net5.0\MyQ.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Models\obj\Debug\net5.0\MyQ.Domain.Models.csproj.CopyComplete
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Models\obj\Debug\net5.0\MyQ.Domain.Models.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Models\obj\Debug\net5.0\ref\MyQ.Domain.Models.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Domain.Models\obj\Debug\net5.0\MyQ.Domain.Models.pdb

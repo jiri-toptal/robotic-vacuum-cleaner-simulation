@@ -1,0 +1,11 @@
+C:\Users\strak\source\repos\MyQ\MyQ.Business.Abstract\bin\Debug\net5.0\MyQ.Business.Abstractions.deps.json
+C:\Users\strak\source\repos\MyQ\MyQ.Business.Abstract\bin\Debug\net5.0\MyQ.Business.Abstractions.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Business.Abstract\bin\Debug\net5.0\ref\MyQ.Business.Abstractions.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Business.Abstract\bin\Debug\net5.0\MyQ.Business.Abstractions.pdb
+C:\Users\strak\source\repos\MyQ\MyQ.Business.Abstract\obj\Debug\net5.0\MyQ.Business.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strak\source\repos\MyQ\MyQ.Business.Abstract\obj\Debug\net5.0\MyQ.Business.Abstractions.AssemblyInfoInputs.cache
+C:\Users\strak\source\repos\MyQ\MyQ.Business.Abstract\obj\Debug\net5.0\MyQ.Business.Abstractions.AssemblyInfo.cs
+C:\Users\strak\source\repos\MyQ\MyQ.Business.Abstract\obj\Debug\net5.0\MyQ.Business.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\strak\source\repos\MyQ\MyQ.Business.Abstract\obj\Debug\net5.0\MyQ.Business.Abstractions.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Business.Abstract\obj\Debug\net5.0\ref\MyQ.Business.Abstractions.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Business.Abstract\obj\Debug\net5.0\MyQ.Business.Abstractions.pdb

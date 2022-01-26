@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3FAJkSNIm3OQqW012J71BLgq98SldZBwLI9paLV3xvnaw3pu//pv7qhbaOACtai0Jh/I3h6kfqVHD0GLTJy+QQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\strak\\Source\\Repos\\robotic-vacuum-cleaner-simulation\\MyQ.Shared.Services\\MyQ.Shared.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\strak\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\strak\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

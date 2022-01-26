@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nI3k49z4Us6V4wUcUzBWhowk8YQ9TyWVZ9b500lhrVU7Bvf4a1KIIqV8RSbI6hf5tZTEojiX0sRS9ybYKBzwfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\strak\\Source\\Repos\\robotic-vacuum-cleaner-simulation\\MyQ.Enums\\MyQ.Enums.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\strak\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

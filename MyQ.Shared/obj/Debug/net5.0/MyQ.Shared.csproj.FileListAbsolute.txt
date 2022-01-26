@@ -1,0 +1,11 @@
+C:\Users\strak\source\repos\MyQ\MyQ.Shared\bin\Debug\net5.0\MyQ.Shared.deps.json
+C:\Users\strak\source\repos\MyQ\MyQ.Shared\bin\Debug\net5.0\MyQ.Shared.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Shared\bin\Debug\net5.0\ref\MyQ.Shared.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Shared\bin\Debug\net5.0\MyQ.Shared.pdb
+C:\Users\strak\source\repos\MyQ\MyQ.Shared\obj\Debug\net5.0\MyQ.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strak\source\repos\MyQ\MyQ.Shared\obj\Debug\net5.0\MyQ.Shared.AssemblyInfoInputs.cache
+C:\Users\strak\source\repos\MyQ\MyQ.Shared\obj\Debug\net5.0\MyQ.Shared.AssemblyInfo.cs
+C:\Users\strak\source\repos\MyQ\MyQ.Shared\obj\Debug\net5.0\MyQ.Shared.csproj.CoreCompileInputs.cache
+C:\Users\strak\source\repos\MyQ\MyQ.Shared\obj\Debug\net5.0\MyQ.Shared.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Shared\obj\Debug\net5.0\ref\MyQ.Shared.dll
+C:\Users\strak\source\repos\MyQ\MyQ.Shared\obj\Debug\net5.0\MyQ.Shared.pdb
